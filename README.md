@@ -1,2 +1,2 @@
-# extension2.0
+# extensio
 Browser Extension
